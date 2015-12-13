@@ -21,7 +21,7 @@ import java.util.Random;
 
 public class MainActivity extends ListActivity {
 
-    private static final String FIREBASE_URL = "https://dazzling-fire-5946.firebaseio.com/";
+    private static final String FIREBASE_URL = "https://supfirechat.firebaseio.com/";
 
     private String mUsername;
     private Firebase mFirebaseRef;
